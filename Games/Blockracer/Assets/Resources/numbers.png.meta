@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: 5c7bce209f5f84e4eb27c4c8b4892e08
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: numbers_0
+    21300002: numbers_1
+    21300004: numbers_2
+    21300006: numbers_3
+    21300008: numbers_4
+    21300010: numbers_5
+    21300012: numbers_6
+    21300014: numbers_7
+    21300016: numbers_8
+    21300018: numbers_9
+    21300020: numbers_13
+    21300022: numbers_10
+    21300024: numbers_12
+    21300026: numbers_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: numbers_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 487
+        width: 63
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 487
+        width: 106
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers_2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 485
+        width: 102
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers_3
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 487
+        width: 111
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 314
+        width: 105
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 313
+        width: 96
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers_6
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 315
+        width: 115
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers_7
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 314
+        width: 105
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers_8
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 152
+        width: 97
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers_9
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 154
+        width: 200
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers_11
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 3
+        width: 180
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numbers_13
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 3
+        width: 195
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
