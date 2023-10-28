@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6a20d6bb837233a42be7b04d28e76062
+timeCreated: 1451712109
+licenseType: Pro
+NativeFormatImporter:
+  userData: "<?xml version=\"1.0\"?>\n\n<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.0//EN'
+    'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>\n<svg fill-opacity=\"1\"
+    xmlns:xlink=\"http://www.w3.org/1999/xlink\" color-rendering=\"auto\" color-interpolation=\"auto\"
+    text-rendering=\"auto\" stroke=\"black\" stroke-linecap=\"square\" stroke-miterlimit=\"10\"
+    shape-rendering=\"auto\" stroke-opacity=\"1\" fill=\"black\" stroke-dasharray=\"none\"
+    font-weight=\"normal\" stroke-width=\"1\" xmlns=\"http://www.w3.org/2000/svg\"
+    font-family=\"&apos;Dialog&apos;\" font-style=\"normal\" stroke-linejoin=\"miter\"
+    font-size=\"12\" stroke-dashoffset=\"0\" image-rendering=\"auto\">\n  <!--Unicode
+    Character 'MUSIC FLAT SIGN' (U+266D)-->\n  <defs id=\"genericDefs\" />\n  <g>\n
+    \   <g>\n      <path d=\"M40.9219 279.2812 Q59.3438 253.4062 82.125 253.4062 Q96.75
+    253.4062 105.9609 262.6172 Q115.1719 271.8281 115.1719 282.7969 Q115.1719 307.6875
+    95.6953 329.6953 Q76.2188 351.7031 30.7969 383.0625 L30.7969 173.9531 L40.9219
+    173.9531 L40.9219 279.2812 ZM40.9219 365.4844 Q93.9375 326.9531 93.9375 293.7656
+    Q93.9375 285.3281 88.7344 279.5625 Q83.5312 273.7969 75.5156 273.7969 Q66.375
+    273.7969 59.0625 278.3672 Q51.75 282.9375 40.9219 295.1719 L40.9219 365.4844 Z\"
+    stroke=\"none\" />\n    </g>\n  </g>\n</svg>\n"
+  assetBundleName: 
+  assetBundleVariant: 

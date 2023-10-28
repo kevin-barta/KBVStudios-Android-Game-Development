@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: b72ea6e037654b84c892b7a6afb66ffc
+timeCreated: 1451712109
+licenseType: Pro
+NativeFormatImporter:
+  userData: "<?xml version=\"1.0\"?>\n\n<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.0//EN'
+    'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>\n<svg fill-opacity=\"1\"
+    xmlns:xlink=\"http://www.w3.org/1999/xlink\" color-rendering=\"auto\" color-interpolation=\"auto\"
+    text-rendering=\"auto\" stroke=\"black\" stroke-linecap=\"square\" stroke-miterlimit=\"10\"
+    shape-rendering=\"auto\" stroke-opacity=\"1\" fill=\"black\" stroke-dasharray=\"none\"
+    font-weight=\"normal\" stroke-width=\"1\" xmlns=\"http://www.w3.org/2000/svg\"
+    font-family=\"&apos;Dialog&apos;\" font-style=\"normal\" stroke-linejoin=\"miter\"
+    font-size=\"12\" stroke-dashoffset=\"0\" image-rendering=\"auto\">\n  <!--Unicode
+    Character 'MUSIC SHARP SIGN' (U+266F)-->\n  <defs id=\"genericDefs\" />\n  <g>\n
+    \   <g>\n      <path d=\"M118.4062 324 L95.9062 330.0469 L95.9062 374.3438 L85.7812
+    374.3438 L85.7812 332.5781 L40.9219 344.6719 L40.9219 392.2031 L30.7969 392.2031
+    L30.7969 347.3438 L8.2969 353.3906 L8.2969 328.2188 L30.7969 322.1719 L30.7969
+    261.1406 L8.2969 267.1875 L8.2969 242.1562 L30.7969 236.1094 L30.7969 191.8125
+    L40.9219 191.8125 L40.9219 233.5781 L85.7812 221.4844 L85.7812 173.9531 L95.9062
+    173.9531 L95.9062 218.8125 L118.4062 212.7656 L118.4062 237.7969 L95.9062 243.8438
+    L95.9062 305.0156 L118.4062 298.9688 L118.4062 324 ZM85.7812 307.5469 L85.7812
+    246.5156 L40.9219 258.6094 L40.9219 319.6406 L85.7812 307.5469 Z\" stroke=\"none\"
+    />\n    </g>\n  </g>\n</svg>\n"
+  assetBundleName: 
+  assetBundleVariant: 

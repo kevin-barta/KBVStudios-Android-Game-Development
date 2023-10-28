@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 66498b5cc83212649acce802ff72d8ab
+timeCreated: 1472529537
+licenseType: Pro
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: "<?xml version=\"1.0\" encoding=\"utf-8\"?>\r\n<!-- Generator: Adobe Illustrator
+    19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->\r\n<svg version=\"1.1\"
+    id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"
+    x=\"0px\" y=\"0px\"\r\n\t viewBox=\"0 0 960 560\" style=\"enable-background:new
+    0 0 960 560;\" xml:space=\"preserve\">\r\n<style type=\"text/css\">\r\n\t.st0{fill:#FFFFFF;}\r\n\t.st1{fill:#D3D3D3;}\r\n\t.st2{fill:#E9E9E9;}\r\n</style>\r\n<polygon
+    class=\"st0\" points=\"495.9,495.9 0,991.8 0,1000 377.5,1000 688.8,688.8 \"/>\r\n<path
+    class=\"st0\" d=\"M0,0l688.8,688.8L527,850.6C811.2,674.4,1000,359.7,1000,0H0z\"/>\r\n<polygon
+    points=\"451,1000 725.5,725.5 688.8,688.8 377.5,1000 \"/>\r\n<path d=\"M725.3,725.3C911.1,539.6,1026,283.1,1026,0h-51.9c0,268.8-109.1,512.3-285.4,688.7L725.3,725.3z\"/>\r\n<polygon
+    class=\"st1\" points=\"0,991.8 495.9,495.9 183.7,183.7 0,367.3 \"/>\r\n<path class=\"st1\"
+    d=\"M0,0l495.8,495.8C622.7,368.8,701.3,193.5,701.3,0H0z\"/>\r\n<polygon class=\"st2\"
+    points=\"0,367.3 183.7,183.7 0,0 0,0 \"/>\r\n<path class=\"st2\" d=\"M259.7,0H0l183.4,183.4C230.5,136.4,259.7,71.4,259.7,0z\"/>\r\n</svg>\r\n"
+  assetBundleName: 
+  assetBundleVariant: 

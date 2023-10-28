@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 81dec77a314331c4084ce2fe27c7873f
+timeCreated: 1451712109
+licenseType: Pro
+NativeFormatImporter:
+  userData: "<?xml version=\"1.0\"?>\n\n<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.0//EN'
+    'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>\n<svg fill-opacity=\"1\"
+    xmlns:xlink=\"http://www.w3.org/1999/xlink\" color-rendering=\"auto\" color-interpolation=\"auto\"
+    text-rendering=\"auto\" stroke=\"black\" stroke-linecap=\"square\" stroke-miterlimit=\"10\"
+    shape-rendering=\"auto\" stroke-opacity=\"1\" fill=\"black\" stroke-dasharray=\"none\"
+    font-weight=\"normal\" stroke-width=\"1\" xmlns=\"http://www.w3.org/2000/svg\"
+    font-family=\"&apos;Dialog&apos;\" font-style=\"normal\" stroke-linejoin=\"miter\"
+    font-size=\"12\" stroke-dashoffset=\"0\" image-rendering=\"auto\">\n  <!--Unicode
+    Character 'MUSICAL SYMBOL HALF REST' (U+1D13C)-->\n  <defs id=\"genericDefs\"
+    />\n  <g>\n    <g>\n      <path d=\"M81.7031 293.9062 L7.0312 293.9062 L7.0312
+    285.75 L17.5781 285.75 L17.5781 259.875 L71.1562 259.875 L71.1562 285.75 L81.7031
+    285.75 L81.7031 293.9062 Z\" stroke=\"none\" />\n    </g>\n  </g>\n</svg>\n"
+  assetBundleName: 
+  assetBundleVariant: 

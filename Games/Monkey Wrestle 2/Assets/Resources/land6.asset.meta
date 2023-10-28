@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 69688ea64f440cc4c8fe16fbc39da22c
+timeCreated: 1472532747
+licenseType: Pro
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: "<?xml version=\"1.0\" encoding=\"utf-8\"?>\r\n<!-- Generator: Adobe Illustrator
+    19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->\r\n<svg version=\"1.1\"
+    id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"
+    x=\"0px\" y=\"0px\"\r\n\t viewBox=\"0 0 960 560\" style=\"enable-background:new
+    0 0 960 560;\" xml:space=\"preserve\">\r\n<style type=\"text/css\">\r\n\t.st0{fill:#E9E9E9;}\r\n\t.st1{fill:#D3D3D3;}\r\n\t.st2{fill:#FFFFFF;}\r\n</style>\r\n<polygon
+    class=\"st0\" points=\"1586.4,1414.1 2000.4,1000.1 1633.1,1000.1 1402.7,1230.4
+    \"/>\r\n<polygon class=\"st1\" points=\"1122.2,1512 1634.2,1000 1009.7,1000 497.7,1512
+    \"/>\r\n<polygon class=\"st2\" points=\"1000,1000 1008.2,1000 8.2,2000 0,2000
+    0,1622.5 1000,622.5 \"/>\r\n<polygon points=\"1000,622.5 0,1622.5 0,1549 1000,549
+    \"/>\r\n<rect y=\"1740.3\" class=\"st0\" width=\"180\" height=\"259.7\"/>\r\n<rect
+    y=\"1298.7\" class=\"st1\" width=\"180\" height=\"441.6\"/>\r\n<rect y=\"1026\"
+    class=\"st2\" width=\"180\" height=\"272.7\"/>\r\n<rect y=\"974\" width=\"180\"
+    height=\"51.9\"/>\r\n<path class=\"st0\" d=\"M1000.3,827.5l-5.3-5.3c-210.7,210.5-501.4,340.8-821.7,340.8v836.4c551.8,0,1051.5-223.8,1413.3-585.6\r\n\tl-265.7-265.7h-196.3V999.5h-124.4V827.5z\"/>\r\n<path
+    class=\"st1\" d=\"M1000.5,1000.5v-172L888.4,716.4C705,899.9,451.7,1013.5,172.5,1013.5v727.3c480.5,0,915.6-194.8,1230.5-509.7\r\n\tl-230.5-230.6H1000.5z\"/>\r\n<path
+    class=\"st2\" d=\"M1000,1000V821.1L885.4,707.5C703,888.3,450.9,1000,172,1000v298.7c317.4,0,608.5-112.2,835.3-298.7H1000z\"/>\r\n<path
+    d=\"M172,973.3v52.6c284.7,0,542.6-116.4,729.3-304.6l-36.9-37.2C687.1,862.8,442.3,973.3,172,973.3z\"/>\r\n</svg>\r\n"
+  assetBundleName: 
+  assetBundleVariant: 

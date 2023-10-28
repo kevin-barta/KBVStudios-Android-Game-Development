@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9559a9696e87a1842b7ee26efd575820
+timeCreated: 1451712109
+licenseType: Pro
+NativeFormatImporter:
+  userData: "<?xml version=\"1.0\"?>\n\n<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.0//EN'
+    'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>\n<svg fill-opacity=\"1\"
+    xmlns:xlink=\"http://www.w3.org/1999/xlink\" color-rendering=\"auto\" color-interpolation=\"auto\"
+    text-rendering=\"auto\" stroke=\"black\" stroke-linecap=\"square\" stroke-miterlimit=\"10\"
+    shape-rendering=\"auto\" stroke-opacity=\"1\" fill=\"black\" stroke-dasharray=\"none\"
+    font-weight=\"normal\" stroke-width=\"1\" xmlns=\"http://www.w3.org/2000/svg\"
+    font-family=\"&apos;Dialog&apos;\" font-style=\"normal\" stroke-linejoin=\"miter\"
+    font-size=\"12\" stroke-dashoffset=\"0\" image-rendering=\"auto\">\n  <!--Unicode
+    Character 'QUARTER NOTE' (U+2669)-->\n  <defs id=\"genericDefs\" />\n  <g>\n    <g>\n
+    \     <path d=\"M90.9844 342.4219 Q90.9844 359.1562 75.3047 372.5156 Q59.625 385.875
+    40.9219 385.875 Q28.125 385.875 20.9531 379.8281 Q13.7812 373.7812 13.7812 363.0938
+    Q13.7812 346.3594 29.4609 333 Q45.1406 319.6406 63.9844 319.6406 Q74.1094 319.6406
+    80.8594 323.7188 L80.8594 173.9531 L90.9844 173.9531 L90.9844 342.4219 Z\" stroke=\"none\"
+    />\n    </g>\n  </g>\n</svg>\n"
+  assetBundleName: 
+  assetBundleVariant: 

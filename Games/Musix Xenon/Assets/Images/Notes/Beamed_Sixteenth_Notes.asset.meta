@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: bc7f7f8e4fddcdb4e92afea6d3ee3a83
+timeCreated: 1451712109
+licenseType: Pro
+NativeFormatImporter:
+  userData: "<?xml version=\"1.0\"?>\n\n<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.0//EN'
+    'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>\n<svg fill-opacity=\"1\"
+    xmlns:xlink=\"http://www.w3.org/1999/xlink\" color-rendering=\"auto\" color-interpolation=\"auto\"
+    text-rendering=\"auto\" stroke=\"black\" stroke-linecap=\"square\" stroke-miterlimit=\"10\"
+    shape-rendering=\"auto\" stroke-opacity=\"1\" fill=\"black\" stroke-dasharray=\"none\"
+    font-weight=\"normal\" stroke-width=\"1\" xmlns=\"http://www.w3.org/2000/svg\"
+    font-family=\"&apos;Dialog&apos;\" font-style=\"normal\" stroke-linejoin=\"miter\"
+    font-size=\"12\" stroke-dashoffset=\"0\" image-rendering=\"auto\">\n  <!--Unicode
+    Character 'BEAMED SIXTEENTH NOTES' (U+266C)-->\n  <defs id=\"genericDefs\" />\n
+    \ <g>\n    <g>\n      <path d=\"M188.2969 336.6562 Q188.2969 353.3906 172.6172
+    366.75 Q156.9375 380.1094 138.2344 380.1094 Q125.4375 380.1094 118.3359 374.0625
+    Q111.2344 368.0156 111.2344 357.3281 Q111.2344 340.5938 126.9141 327.2344 Q142.5938
+    313.875 161.2969 313.875 Q171.5625 313.875 178.3125 317.9531 L178.3125 241.3125
+    L90.9844 264.6562 L90.9844 362.5312 Q90.9844 379.2656 75.3047 392.625 Q59.625
+    405.9844 40.9219 405.9844 Q28.125 405.9844 20.9531 399.9375 Q13.7812 393.8906
+    13.7812 383.3438 Q13.7812 366.6094 29.4609 353.1797 Q45.1406 339.75 63.9844 339.75
+    Q74.1094 339.75 80.8594 343.8281 L80.8594 194.0625 L188.2969 165.2344 L188.2969
+    336.6562 ZM178.3125 214.1719 L178.3125 194.9062 L90.9844 218.5312 L90.9844 237.5156
+    L178.3125 214.1719 Z\" stroke=\"none\" />\n    </g>\n  </g>\n</svg>\n"
+  assetBundleName: 
+  assetBundleVariant: 

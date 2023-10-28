@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: 1d37fd23fcfcb8347a618a87cd804e68
+timeCreated: 1451712109
+licenseType: Pro
+NativeFormatImporter:
+  userData: "<?xml version=\"1.0\"?>\n\n<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.0//EN'
+    'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>\n<svg fill-opacity=\"1\"
+    xmlns:xlink=\"http://www.w3.org/1999/xlink\" color-rendering=\"auto\" color-interpolation=\"auto\"
+    text-rendering=\"auto\" stroke=\"black\" stroke-linecap=\"square\" stroke-miterlimit=\"10\"
+    shape-rendering=\"auto\" stroke-opacity=\"1\" fill=\"black\" stroke-dasharray=\"none\"
+    font-weight=\"normal\" stroke-width=\"1\" xmlns=\"http://www.w3.org/2000/svg\"
+    font-family=\"&apos;Dialog&apos;\" font-style=\"normal\" stroke-linejoin=\"miter\"
+    font-size=\"12\" stroke-dashoffset=\"0\" image-rendering=\"auto\">\n  <!--Unicode
+    Character 'MUSICAL SYMBOL SIXTEENTH NOTE' (U+1D161)-->\n  <defs id=\"genericDefs\"
+    />\n  <g>\n    <g>\n      <path d=\"M43.3125 379.125 Q39.375 379.125 34.1719 378.1406
+    Q28.9688 377.1562 25.7344 373.9219 Q22.5 370.6875 22.5 367.3125 Q22.5 362.25 26.4375
+    355.3594 Q30.375 348.4688 38.25 344.6719 Q46.125 340.875 50.625 340.875 Q54 340.875
+    57.0938 341.4375 Q60.1875 342 63.8438 343.6875 Q67.5 345.375 70.875 347.9062 L70.875
+    194.3438 L78.1875 194.3438 L106.3125 222.4688 Q112.5 228.6562 116.4375 237.0938
+    Q120.375 245.5312 120.375 253.9688 Q120.375 258.75 119.1797 262.4062 Q117.9844
+    266.0625 115.875 269.7188 Q118.125 273.9375 119.25 279.2812 Q120.375 284.625 120.375
+    287.7188 Q120.375 293.9062 117.7031 299.9531 Q115.0312 306 109.6875 311.9062 L101.25
+    320.3438 L97.875 318.6562 L102.9375 308.8125 Q106.3125 301.7812 107.1562 296.1562
+    Q108 290.5312 108 287.1562 Q108 281.5312 104.625 274.7812 Q101.25 268.0312 95.625
+    263.5312 L78.1875 251.7188 L78.1875 360.5625 L69.75 369 Q64.6875 373.7812 58.2188
+    376.4531 Q51.75 379.125 43.3125 379.125 ZM107.7188 257.625 Q108 255.2344 108 253.4062
+    Q108 247.7812 104.625 241.0312 Q101.25 234.2812 95.625 229.7812 L78.1875 217.9688
+    L78.1875 228.0938 L106.3125 256.2188 L107.7188 257.625 Z\" stroke=\"none\" />\n
+    \   </g>\n  </g>\n</svg>\n"
+  assetBundleName: 
+  assetBundleVariant: 

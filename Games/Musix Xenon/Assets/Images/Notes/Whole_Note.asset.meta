@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 6f50922e5d46bd84d8919960143f84ed
+timeCreated: 1451712109
+licenseType: Pro
+NativeFormatImporter:
+  userData: "<?xml version=\"1.0\"?>\n\n<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.0//EN'
+    'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>\n<svg fill-opacity=\"1\"
+    xmlns:xlink=\"http://www.w3.org/1999/xlink\" color-rendering=\"auto\" color-interpolation=\"auto\"
+    text-rendering=\"auto\" stroke=\"black\" stroke-linecap=\"square\" stroke-miterlimit=\"10\"
+    shape-rendering=\"auto\" stroke-opacity=\"1\" fill=\"black\" stroke-dasharray=\"none\"
+    font-weight=\"normal\" stroke-width=\"1\" xmlns=\"http://www.w3.org/2000/svg\"
+    font-family=\"&apos;Dialog&apos;\" font-style=\"normal\" stroke-linejoin=\"miter\"
+    font-size=\"12\" stroke-dashoffset=\"0\" image-rendering=\"auto\">\n  <!--Unicode
+    Character 'MUSICAL SYMBOL WHOLE NOTE' (U+1D15D)-->\n  <defs id=\"genericDefs\"
+    />\n  <g>\n    <g>\n      <path d=\"M90.5625 320.9062 Q90.5625 333.7031 76.0781
+    340.4531 Q64.9688 345.5156 50.3438 345.5156 Q34.7344 345.5156 23.7656 340.3125
+    Q9.4219 333.4219 9.4219 319.6406 Q9.4219 307.125 23.7656 300.5156 Q35.0156 295.3125
+    49.2188 295.3125 Q64.5469 295.3125 75.7969 300.5156 Q90.5625 307.4062 90.5625
+    320.9062 ZM64.2656 327.2344 Q64.2656 317.9531 60.3281 310.5 Q55.4062 301.2188
+    46.9688 301.2188 Q35.4375 301.2188 35.4375 313.0312 Q35.4375 322.1719 39.5156
+    330.0469 Q44.4375 339.75 52.5938 339.75 Q64.2656 339.75 64.2656 327.2344 Z\" stroke=\"none\"
+    />\n    </g>\n  </g>\n</svg>\n"
+  assetBundleName: 
+  assetBundleVariant: 
